@@ -1,0 +1,17 @@
+# Environment variables (Crucial!)
+.env
+
+# Python specific
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
